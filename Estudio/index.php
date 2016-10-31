@@ -2,7 +2,7 @@
 <html>
 <head>
 
-	<title>DavidAprende</title>
+	<title>Aprende</title>
 	<link rel="stylesheet"  href="main.css">
 
 </head>
